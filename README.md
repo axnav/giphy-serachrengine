@@ -1,2 +1,2 @@
 # giphy-serachrengine
-serches giphs kekew
+searches giphs kekew
